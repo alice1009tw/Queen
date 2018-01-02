@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439872026881",
+    "firebase_url": "https://bangtan-1126e.firebaseio.com",
+    "project_id": "bangtan-1126e",
+    "storage_bucket": "bangtan-1126e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439872026881:android:15899f9767cc7200",
+        "android_client_info": {
+          "package_name": "com.alice1009tw.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439872026881-791kb63oe6aaagdl7ppg6ed6is7pb7r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alice1009tw.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "439872026881-dgcggis2t0kh3m4nutg6r6tgh58rbui9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__3Rx3suxTmvOYIPnhpZC11-02UUXi24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439872026881-dgcggis2t0kh3m4nutg6r6tgh58rbui9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
